@@ -1,8 +1,8 @@
 {
-  "name": "Google-map-project",
+  "name": "google-map-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mykola-Veres/Google-map-project/",
+  "homepage": "https://Mykola-Veres/google-map-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
