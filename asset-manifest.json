@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Google-map-project/static/css/main.7acaea2f.css",
-    "main.js": "/Google-map-project/static/js/main.07d3183d.js",
-    "index.html": "/Google-map-project/index.html",
-    "main.7acaea2f.css.map": "/Google-map-project/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Google-map-project/static/js/main.07d3183d.js.map"
+    "main.css": "/google-map-project/static/css/main.7acaea2f.css",
+    "main.js": "/google-map-project/static/js/main.07d3183d.js",
+    "index.html": "/google-map-project/index.html",
+    "main.7acaea2f.css.map": "/google-map-project/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/google-map-project/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
